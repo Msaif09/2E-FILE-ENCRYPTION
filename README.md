@@ -11,19 +11,24 @@
 
 ## Screenshots
 
+
+### Splash Screen
+<img src="https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-14-12-884_com.org.a2eencryption.jpg" alt="Splash Screen" width="250">
+
 ### Home Screen
-![Splash Screen](https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-14-12-884_com.org.a2eencryption.jpg)
-
-
-
-### Home Screen
-![Home Screen](https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-14-17-268_com.org.a2eencryption.jpg)
+<img src="https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-14-17-268_com.org.a2eencryption.jpg" alt="Home Screen" width="250">
 
 ### Encrypt File
-![Encrypt File](https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-14-21-405_com.org.a2eencryption.jpg)
+<img src="https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-14-21-405_com.org.a2eencryption.jpg" alt="Encrypt File" width="250">
+
+### System Genrated Password
+<img src="https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-51-50-786_com.org.a2eencryption.jpg" alt="System Genrated Password" width="250">
 
 ### Decrypt File
-![Decrypt File](https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-53-25-306_com.org.a2eencryption.jpg)
+<img src="https://github.com/Msaif09/2E-FILE-ENCRYPTION/blob/main/images/Screenshot_2024-05-23-18-53-25-306_com.org.a2eencryption.jpg" alt="Decrypt File" width="250">
+
+
+
 
 ## Installation
 
